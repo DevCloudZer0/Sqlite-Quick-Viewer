@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqliteQuickViewer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da11ff40b042d342ecc3aef156bf0884a32b0686")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqliteQuickViewer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqliteQuickViewer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
