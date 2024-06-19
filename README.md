@@ -17,7 +17,7 @@ Developer:  CloudZer0
 - Windows Forms
 - C#
 
-**Customizations**
+**Customizations and Support**
 - cloudzero.za@gmail.com
 
 
