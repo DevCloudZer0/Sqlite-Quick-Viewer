@@ -13,6 +13,9 @@
 **Application Download**
 - Microsoft Store - Sqlite Quick Viewer
 
+**Example database**
+- chinnook.db
+
 **Dev Platform** 
 - Windows Forms, Visual Studio 2022
 - Microsoft Visual Studio Community 2022 (64-bit) - Current Version 17.10.1
