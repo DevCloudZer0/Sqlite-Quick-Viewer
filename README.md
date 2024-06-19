@@ -1,15 +1,23 @@
-Project:  Sqlite Quick Viewer
-Version:  1.01
+![Sqlite Quick Viewer](Splash.png)
+# Project:  Sqlite Quick Viewer
+Version:  1.0
 Date:  11 June 2024
 Developer:  CloudZer0
 
-Functions:
-1) Check for a valid sqlite Database file.
-2) Read all tables of a valid sqlite database file.
-3) View Table
-4) Export table to csv.
+**Functions:**
+- Check for a valid sqlite database file.
+- Read all tables of a valid sqlite database file.
+- View Table(s)
+- Export table to csv.
 
+**Application Download**
+- Microsoft Store - Sqlite Quick Viewer
 
-IDE.
-1) Visual Studio C# Winforms application.
+**Dev Platform** 
+- Windows Forms
+- C#
+
+**Customizations**
+- cloudzero.za@gmail.com
+
 
